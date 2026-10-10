@@ -29,7 +29,7 @@ An exploratory analysis of **69,351 London Airbnb listings across 33 boroughs** 
 
 - `London_Airbnb_Analysis.ipynb` — analysis notebook, with explanations and charts
 - `requirements.txt` — Python dependencies
-- `listingss.csv` — **not included**; obtain the source dataset separately and place it alongside the notebook, preserving this exact filename
+- `listingss.csv` — obtain the source dataset separately and place it alongside the notebook, preserving this exact filename
 - `outputs/` — created automatically when the notebook runs
 
 ## Run locally
