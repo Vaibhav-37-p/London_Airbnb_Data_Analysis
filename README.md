@@ -50,13 +50,13 @@ This is a **historical snapshot**, not a current market or time-series study. Pr
 ## Data Visualisations
 
 ### Top 10 London Boroughs by Airbnb Listings
-![Listings by borough](images/borough_listings.png)
+![Listings by borough](borough_listings.png)
 
 ### Median Nightly Prices by Borough
-![Median nightly prices](images/borough_prices.png)
+![Median nightly prices](borough_prices.png)
 
 ### Airbnb Listings by Room Type
-![Listings by room type](images/room_types.png)
+![Listings by room type](room_types.png)
 
 ### Distribution of Advertised Nightly Prices
-![Nightly price distribution](images/price_distribution.png)
+![Nightly price distribution](price_distribution.png)
