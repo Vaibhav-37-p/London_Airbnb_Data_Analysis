@@ -46,3 +46,17 @@ Place `listingss.csv` in the repository directory before running the notebook fr
 The notebook uses a London Airbnb listings dataset dated **October 2022** (69,351 rows and 18 original fields). Add the original dataset URL and licence here before publishing; verify whether redistribution is permitted before uploading the CSV.
 
 This is a **historical snapshot**, not a current market or time-series study. Prices are *advertised*, not confirmed booking rates or revenue. Calendar availability is not equivalent to occupancy; review counts are not equivalent to stays. Price statistics use the disclosed percentile filter.
+
+## Data Visualisations
+
+### Top 10 London Boroughs by Airbnb Listings
+![Listings by borough](images/borough_listings.png)
+
+### Median Nightly Prices by Borough
+![Median nightly prices](images/borough_prices.png)
+
+### Airbnb Listings by Room Type
+![Listings by room type](images/room_types.png)
+
+### Distribution of Advertised Nightly Prices
+![Nightly price distribution](images/price_distribution.png)
