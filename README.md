@@ -41,11 +41,16 @@ jupyter notebook London_Airbnb_Analysis.ipynb
 
 Place `listingss.csv` in the repository directory before running the notebook from top to bottom.
 
-## Dataset and limitations
+## Dataset Information
 
-The notebook uses a London Airbnb listings dataset dated **October 2022** (69,351 rows and 18 original fields). Add the original dataset URL and licence here before publishing; verify whether redistribution is permitted before uploading the CSV.
+- **Dataset:** London UK Airbnb Open Data
+- **Source:** [Kaggle – whenamancodes](https://www.kaggle.com/datasets/whenamancodes/london-uk-airbnb-open-data)
+- **Dataset Period:** October 2022
+- **Total Listings:** 69,351
+- **Coverage:** 33 London boroughs
+- **Dataset File:** `listingss.csv`
 
-This is a **historical snapshot**, not a current market or time-series study. Prices are *advertised*, not confirmed booking rates or revenue. Calendar availability is not equivalent to occupancy; review counts are not equivalent to stays. Price statistics use the disclosed percentile filter.
+The dataset was sourced from Kaggle and used to explore Airbnb listing distribution, accommodation types, nightly pricing patterns, availability and host activity across London.
 
 ## Data Visualisations
 
